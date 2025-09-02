@@ -7,5 +7,5 @@ This a project lessons and steps that I went through for my IBM Capstone project
 3. Data Visualization
      [https://github.com/brieng314/IBMDSCAPSTONE/blob/main/jupyter-labs-eda-dataviz.ipynb.jupyterlite.ipynb](https://github.com/brieng314/IBM-Data-Science-Capstone/blob/main/Part-2-EDA-Data-Visualization)
 6. Machine Learning model
-     https://github.com/brieng314/IBMDSCAPSTONE/blob/main/SpaceX_Machine_Learning_Prediction_Part_5.jupyterlite%20(copy).ipynb
+     [https://github.com/brieng314/IBMDSCAPSTONE/blob/main/SpaceX_Machine_Learning_Prediction_Part_5.jupyterlite%20(copy).ipynb](https://github.com/brieng314/IBM-Data-Science-Capstone/blob/main/Part-3-Machine-Learning-Prediction.ipynb)
 8. Conclusion
